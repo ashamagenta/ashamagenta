@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashamagenta
-- 👀 I’m interested in programming and art
+- 👀 I’m interested in security and programming
 - 🌱 I’m currently learning Pyhton , React and Reactnative
 - 💞️ I’m looking to collaborate on opensource project with C#
 - 📫 How to reach me please email me at chsahrial@gmail.com
