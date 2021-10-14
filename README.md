@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashamagenta
+- 👋 Hi, I’m Asha
 - 👀 I’m interested in security and programming
 - 🌱 I’m currently learning Pyhton , React and Reactnative
 - 💞️ I’m looking to collaborate on opensource project with C#
